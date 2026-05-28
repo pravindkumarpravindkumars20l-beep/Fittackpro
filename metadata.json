@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Pro",
+  "description": "Health & Gym Tracker App. Track workouts, calories, daily macro nutrition, water intake, weight progress, and calculate BMI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
